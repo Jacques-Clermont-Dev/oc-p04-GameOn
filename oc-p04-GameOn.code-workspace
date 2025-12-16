@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../oc-p02-booki"
+    },
+    {
+      "path": "../GameOn-website-FR"
+    },
+    {
+      "path": "../OCR04_GameOn-website-FR"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "oc-p04-GameOn"
+  }
+}
